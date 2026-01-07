@@ -1,0 +1,6 @@
+{
+  "name": "Nana (ナナ) 心理戦神経衰弱",
+  "description": "An assistant app for the board game 'Nana' by Mob+. Helps track player turns, actions, and completed sets to make the game easier to follow.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
